@@ -1,2 +1,7 @@
 # Lab-5
-Lab 5 from ESE 224: Advanced Programming and Data Structures; Taken in Fall 2020
+Using a text file as a "shopping list", had to create the following functions:
+- bool fileExists(istream& in) : return true/ false if file exists or not
+- printAll() : reads and prints everything from input file
+- bool itemExists(istream& in): checks if item exists in the "list"
+- void printMostExpensiveItem()
+- void addItem()
