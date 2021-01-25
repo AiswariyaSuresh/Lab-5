@@ -1,0 +1,10 @@
+RTX_3080 699
+Play_Station 499
+"Heidi" 14.99
+iPad_Pro 999
+Kindle_Oasis 199.99
+iPhone_11 699
+Beats 1000
+Television 5000
+CD_player 200
+dvd_player 500
